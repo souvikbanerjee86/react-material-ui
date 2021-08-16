@@ -9,6 +9,7 @@ const useStyles = makeStyles((theme) => ({
   toolbar: {
     display: "flex",
     justifyContent: "space-between",
+    backgroundColor: theme.palette.secondary.dark,
   },
   logoLg: {
     display: "none",
